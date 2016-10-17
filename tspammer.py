@@ -1419,6 +1419,7 @@ def GetFirst19TweetsIDS(u):
 					if v2 not in res and len(str(v2))>= 15:
 						res.append(v2) 
 
+
 	#prints('\n Ids = '+str(len(res)))
 
 	#Getting tweets count
@@ -1427,11 +1428,22 @@ def GetFirst19TweetsIDS(u):
 		vc=r.text.encode('utf-8').split('<span class="ProfileNav-value" data-is-compact="false">')
 		vc=vc[1]
 		vc=vc.split('<')[0].replace(',','')
-		prints('\n Max Tweets = ['+str(vc)+']')
 		vc=int(vc)
+
 	except Exception:
 		vc=0
+	try:
+		delx='ink u-borderUserColor u-textCenter js-tooltip js-nav" title="'
+		vp=r.text.encode('utf-8').split(delx)[1]
+		if ' 'in vp:
+			vp=vp.split(' ')[0]
+			vp=vp.replace(',','')
+			vc=int(vp)
 
+	except Exception:
+		vp=0
+
+	prints('\n Max Tweets = ['+str(vc)+']')
 	return res,vc
 
 def GetMassTweetsIds(user ,count):
