@@ -191,6 +191,12 @@ def init():
 		res['lasterror']=res['sessionerror']=str(er)
 		
 	return res
+def GETUSERNAME(idx):
+	idx=idx.strip()
+	for f in par.users_IDS:
+		if par.users_IDS[f].strip()==idx:
+			return f
+	return idx
 def report(vars,uid):
 	
 	# POST /i/safety/report_story HTTP/1.1
@@ -204,6 +210,7 @@ def report(vars,uid):
 	# Connection: close
 	# Content-Type: application/x-www-form-urlencoded
 	# Content-Length: 96
+	uid=uid.strip()
 	ur='https://twitter.com/i/safety/report_story'
 	cok=GET(vars,'cookie')+';profile_id='+uid+'; client_location="profile:profile:profile_follow_card"; source=reportprofile; reported_user_id='+uid+'; report_type=abuse; abuse_type=violence; victim=Someone_else; guest_id=v1%3A147656774018470601; pid="v3:1476567750510185312822237"; _ga=GA1.2.1909173556.1476567795;'
 
@@ -222,7 +229,7 @@ def report(vars,uid):
 		r=requests.post(url=ur,headers=h,data=b,allow_redirects=False)
 
 	if r.status_code==302 and r.text=='':
-		vars['lastmsg']='Reprted '+uid+' by '+GET(vars,'username')
+		vars['lastmsg']='Reprted '+GETUSERNAME(uid)+' by '+GET(vars,'username')
 		vars['reported']='True'
 	else:
 		vars['lastmsg']='Error reporting'
@@ -1587,7 +1594,7 @@ def AutoMate_Mass_Report(usernames,count):
 	if v <1:
 		v=1
 	for i2 in ids:
-		prints(STX.yel+'Reporting '+i2)
+		prints(STX.yel+'Reporting '+GETUSERNAME(i2))
 		px=0
 		for z in range(0,v+1):
 			for s in par.valid_sessions:
