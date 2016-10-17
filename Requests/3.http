@@ -1,0 +1,10 @@
+GET /account/access HTTP/1.1
+Host: twitter.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://twitter.com/welcome/digits_add
+Cookie: ad_partner=; _twitter_sess=BAh7DCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCLPLFJBXAToMY3NyZl9p%250AZCIlMmVhNmFmNjRjMDhhZDY0MThlNTU5ODI5ZDRlZDZhOTA6B2lkIiVkNDAx%250AZTIwZTk1M2JhMWIwODdkYTE2YTJjNTZlMTAwYjoJdXNlcmwrCQDw1sbdEt8K%250AOg51c2VyX2luZm97ADoaYWxsb3dfdXNlcm5hbWVfdXBkYXRlVA%253D%253D--3efc88db7bb49b89ed0a90f535b4562bc269bdd1; guest_id=v1%3A147559106449708223; _ga=GA1.2.1855789897.1475591126; pid="v3:1475591149327873419505391"; __utma=43838368.1855789897.1475591126.1475591334.1475591334.1; __utmc=43838368; __utmz=43838368.1475591334.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); kdt=tgMK6YkOojLihNrykPHD7zb97SlNlJPBVGRYOxyw; remember_checked_on=1; twid="u=783365603918802944"; auth_token=FD826C21C50F8C156FDC62E2E46ABD17F2EBC9BA; lang=en
+Connection: close
+Upgrade-Insecure-Requests: 1
+

@@ -1,0 +1,13 @@
+POST /i/tweet/create HTTP/1.1
+Host: twitter.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Content-Length: 129
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://twitter.com/
+X-Requested-With: XMLHttpRequest
+Cookie: _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCHFJfpVXAToMY3NyZl9p%250AZCIlMjVlZWZjM2I4NTJjNjM4ZGVmMDZhNjI5MTE0MjJkMjk6B2lkIiU2Nzgx%250ANGQ3NjhiZDJhOGU3ZDBmZjFkMzhkN2QyYWZkMzoJdXNlcmwrCQCAVqPFGN8K--47aa526190a73114d6cae80511a7be72c00b2fc4; guest_id=v1%3A147568186404733977; _ga=GA1.2.1807619857.1475681872; _gat=1; pid="v3:1475681873798613838963613"; kdt=OaNEYOg0NGTyeZHktrtTPrDJTTgI56duV24IcvBu; remember_checked_on=1; twid="u=783372097313734656"; auth_token=AE1764C09ACC94A6844180AB434DD7AFFDE8A607; lang=en
+Connection: close
+
+authenticity_token=b812e12b291977e63d80cda13eba5096a00322f1&is_permalink_page=false&place_id=&status=hello+yankez+x&tagged_users=

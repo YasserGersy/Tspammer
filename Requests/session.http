@@ -1,0 +1,16 @@
+POST /sessions HTTP/1.1
+Host: twitter.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://twitter.com/
+Upgrade-Insecure-Requests: 1
+Cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCCV9UZVXAToMY3NyZl9p%250AZCIlZGM4MzFkNzBiZjFjZjZmNDUwNjAwYjBjZTJlMWM5Mzk6B2lkIiVjNDA1%250AYzZmNTkwN2M3ODE0NDFiZDdmNjVkNjdjYzNhZQ%253D%253D--66e6ef1e82bc095a72fd06e540fea581e587763a; guest_id=v1%3A147567892816458781;
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 245
+
+session%5Busername_or_email%5D=h.elloworldthisismrexceptionacc%40gmail.com&session%5Bpassword%5D=1q2w3e%21Q%40W%23E&remember_me=1&return_to_ssl=true&scribe_log=&redirect_after_login=%2F&authenticity_token=94ef242b20bd8a5d26b50aefd942cc2b718169f8
+
+
+302

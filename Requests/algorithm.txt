@@ -1,0 +1,18 @@
+1-  Get  /   						<< cok[ _twitter_sess]    , cok[ guest_id]			,body[authenticity_token]
+
+          <input type="hidden" name="authenticity_token" value="94ef242b20bd8a5d26b50aefd942cc2b718169f8">
+
+
+
+2- post / session
+session[username_or_email]=h.elloworldthisismrexceptionacc@gmail.com
+&session[password]=1q2w3e!Q@W#E
+&remember_me=1
+&return_to_ssl=true
+&scribe_log=
+&redirect_after_login=/
+&authenticity_token=94ef242b20bd8a5d26b50aefd942cc2b718169f8
+
+
+3_Get /						body[csrf token]
+          <input type="hidden" value="b812e12b291977e63d80cda13eba5096a00322f1" name="authenticity_token" class="authenticity_token">
