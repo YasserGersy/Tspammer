@@ -3,14 +3,11 @@
 _________________________________________________________________________________________________________
 
 
+
+
+```diff
++ ### This  Request is used to get token and cookies for login 
 ```
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-
-
-### This  Request is used to get token and cookies for login 
-
  - URL 		       :twitter.com/
 
  - Method		   : GET
