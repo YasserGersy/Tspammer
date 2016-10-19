@@ -27,7 +27,9 @@ ________________________________________________________________________________
 
  - URL            : twitter.com/i/safety/report_story 
 
- - Authentication : Required
+ - Method         : POST
+
+ - Authentication : Required (valid session)
 
  - Reason         : Submitting report to twitter
 
@@ -46,3 +48,33 @@ ________________________________________________________________________________
 	authenticity_token=___Auth__Token___&next_view=harassment_confirmation_v2
 
  ~~~~~~~~
+
+_________________________________________________________________________________________________________
+
+### This request is used to init a session
+
+ - URL            :https://twitter.com/sessions
+
+ - Method         : POST
+
+ - Authentication : Required (Valid credentials [id and passowrd ]) + (guest cookie)
+
+ - Reason	     : Init a new session
+
+ - Message        :
+ ~~~~~~~~
+	Host: twitter.com
+	User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+	Accept: text/html,Application/xhtml+xml,Application/xml;q=0.9,*/*;q=0.8
+	Accept-Language: en-US,en;q=0.5
+
+	Referer: https://twitter.com/,Upgrade-Insecure-Requests: 1
+	Cookie: ___Guest__coookies__
+	Content-Type: Application/x-www-form-urlencoded
+ ~~~~~~~~
+
+URL
+Method
+Authentication
+Reason
+Message
