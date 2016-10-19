@@ -21,16 +21,17 @@
 	Upgrade-Insecure-Requests: 1
  ~~~~~~~~
 
+_________________________________________________________________________________________________________
 
 ### This request is used to report a user
 
- POST twitter.com/i/safety/report_story 
+ - URL            : twitter.com/i/safety/report_story 
 
- Authentication: Required
+ - Authentication : Required
 
- For 		   : Submitting report to twitter
+ - Reason         : Submitting report to twitter
 
- Example	   : 
+ - Message	    : 
 
  ~~~~~~~~
  	POST twitter.com/i/safety/report_story HTTP/1.1
