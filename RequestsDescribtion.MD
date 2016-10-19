@@ -1,4 +1,4 @@
-#The Following details Explain Each Request used on Tspammer.py Script
+##The Following details Explain Each Request used on Tspammer.py Script
 _________________________________________________________________________________________________________
 ###This  Request is used to get token and cookies for login 
 
@@ -46,7 +46,6 @@ ________________________________________________________________________________
 
  ~~~~~~~~
 _________________________________________________________________________________________________________
-
 ### This request is used to Log in
 
  - URL            :https://twitter.com/sessions
@@ -69,7 +68,7 @@ ________________________________________________________________________________
 	Content-Type: Application/x-www-form-urlencoded
  ~~~~~~~~
 _________________________________________________________________________________________________________
-### This request is used to get an id of installed mobile phone (not used)
+### This request is used to get an id of installed device "mobile phone" (not used)
  
  - Url 	: twitter.com/settings/devices
 
@@ -92,7 +91,7 @@ ________________________________________________________________________________
 	 Connection: close
  ~~~~~~~~
 _________________________________________________________________________________________________________
-### This request is used to delete mobile phone from account using (device ID)
+### This request is used to delete mobile phone from account using device ID (not used)
  
  - Url: twitter.com/settings/devices/destroy
 
@@ -119,6 +118,39 @@ ________________________________________________________________________________
 
 	 authenticity_token=__Auth_Token___&_method=delete&device_id=784045180760363008
  ~~~~~~~~
+_________________________________________________________________________________________________________
+### This request is used to retweet or like a tweet
+
+ - URL : twitter.com/i/tweet/like or twitter.com/i/tweet/retweet
+
+ - Method: POST
+
+ - Authentication : Required (valid session)
+
+ - Reason : Like or retweet 
+
+ - Message :
+
+  ~~~~~~~~
+	POST /i/tweet/like HTTP/1.1  	or   POST /i/tweet/retweet HTTP/1.1
+	 Host: twitter.com
+	 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+	 Accept: application/json, text/javascript, */*; q=0.01
+	 Accept-Language: en-US,en;q=0.5
+	 Content-Length: 147
+	 Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+	 Referer: https://twitter.com/
+	 X-Requested-With: XMLHttpRequest
+	 Cookie: ___Cookies___
+	 Connection: close
+
+	
+	authenticity_token=___AUTH___TOK__&id=___Tweet__ID___&tweet_stat_count=0
+	
+
+  ~~~~~~~~
+_________________________________________________________________________________________________________
+
 
 
 URL
