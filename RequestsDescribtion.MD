@@ -5,7 +5,9 @@
 
  GET twitter.com/
  Authentication: not required
+
  For 		  : Getting guest cookies
+
  Example	      :
 
  ~~~~~~~~
@@ -19,9 +21,12 @@
 
 ### This request is used to report a user
 
- POST twitter.com/i/safety/report_story HTTP/1.1
+ POST twitter.com/i/safety/report_story 
+ 
  Authentication: Required
+
  For 		   : Submitting report to twitter
+
  Example	   : 
 
  ~~~~~~~~
