@@ -3,7 +3,7 @@ cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
 connection: close
 content-length: 127552
 content-security-policy: script-src 'self' https://*.twimg.com https://twitter.com https://ton.twitter.com; frame-ancestors https://tweetdeck-devel.atla.twitter.com https://tweetdeck-devel.smf1.twitter.com https://tdapi-staging.smf1.twitter.com https://tweetdeck.localhost.twitter.com https://tweetdeck.twitter.com https://mobile.twitter.com https://tdapi-staging.atla.twitter.com 'self'; font-src https://twitter.com https://*.twimg.com data: https://ton.twitter.com 'self'; media-src 'self' https://*.twimg.com https://twitter.com https://ton.twitter.com; connect-src 'self'; style-src 'self' https://*.twimg.com https://twitter.com https://ton.twitter.com; object-src 'none'; default-src 'self'; frame-src 'self' https://*.twimg.com https://twitter.com https://ton.twitter.com; img-src https://twitter.com https://*.twimg.com data: https://ton.twitter.com 'self'; report-uri https://twitter.com/i/csp_report?a=ONYGC3LBMNQXO%3D%3D%3D&ro=false;
-content-type: text/html;charset=utf-8
+content-type: text/html;charset=utf-8 
 date: Wed, 05 Oct 2016 14:45:37 GMT
 expires: Tue, 31 Mar 1981 05:00:00 GMT
 last-modified: Wed, 05 Oct 2016 14:45:37 GMT
