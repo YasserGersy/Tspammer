@@ -1,5 +1,24 @@
-## The Following details Explain Each Request used on Tspammer.py Script
+# The Following details Explain Each Request used on Tspammer.py Script
 
+## Login Process 
+ Requires two requests
+
+ 1- First Get twttier.com/ : the response will contain cookies and auth token , these values will be used next to login.
+
+ 2- Second POST twitter.com/session : this rquest is used to request a session from twitter , the request body contains the cookie prevously grabbed from the first request and BOT credentials (id and password)
+
+ ## Following a user 
+  Requires two requests
+  
+  1- First to get id of a user (only once)
+  2- second submit follow to the target id
+
+## any other actions on tweets
+1- First grab the rweet id via GET (only once)
+2- Second POST like,retweet the target tweet 
+
+
+##Requests Details
 _________________________________________________________________________________________________________
 
 ### [1] This  Request is used to get token and cookies for login 
