@@ -3,12 +3,15 @@
 
 ###This  Request is used to get token and cookies for login 
 
- GET twitter.com/
- Authentication: not required
+ - URL 		       :twitter.com/
 
- For 		  : Getting guest cookies
+ - Method		   : GET
 
- Example	      :
+ - Authentication  : not required
+
+ - Reason   	   : Getting guest cookies
+
+ - Message         :
 
  ~~~~~~~~
 	GET / HTTP/1.1
@@ -22,7 +25,7 @@
 ### This request is used to report a user
 
  POST twitter.com/i/safety/report_story 
- 
+
  Authentication: Required
 
  For 		   : Submitting report to twitter
