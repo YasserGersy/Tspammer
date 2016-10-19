@@ -1,6 +1,6 @@
-##The Following details Explain Each Request used on Tspammer.py Script
+## The Following details Explain Each Request used on Tspammer.py Script
 _________________________________________________________________________________________________________
-###This  Request is used to get token and cookies for login 
+### This  Request is used to get token and cookies for login 
 
  - URL 		       :twitter.com/
 
@@ -150,9 +150,57 @@ ________________________________________________________________________________
 
   ~~~~~~~~
 _________________________________________________________________________________________________________
+### This request is used to post a tweet
 
+ - url : twitter.com/i/tweet/create
+ - Method : POST
+ - Authentication: Required (Valid session)
+ - Reason : Mass tweet
+ - Message :
+ ~~~~~~~~
+     POST /i/tweet/create HTTP/1.1
+	 Host: twitter.com
+	 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+	 Accept: Application/json, text/javascript, */*; q=0.01
+	 Accept-Language: en-US,en;q=0.5
+	 Content-Length: 129
+	 Content-Type: Application/x-www-form-urlencoded; charset=UTF-8
+	 Referer: https://twitter.com/
+	 X-Requested-With: XMLHttpRequest
+	 Cookie: ____Cookies____
 
+	 authenticity_token=__AUTH__Token__&is_permalink_page=false&place_id=&status=___TWEET__Text__&tagged_users=
+	
+ ~~~~~~~~
+_________________________________________________________________________________________________________
+### This request is used to follow a user
 
+ - URL : twitter.com/i/user/follow 
+
+ - Method : POST
+
+ - Authentication : Required (valid session)
+
+ - Reason: Mass Follow or spam follow
+
+ - Message: 
+ ~~~~~~~~
+     POST /i/user/follow HTTP/1.1
+	 Host: twitter.com
+	 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0
+	 Accept: Application/json, text/javascript, */*; q=0.01
+	 Accept-Language: en-US,en;q=0.5
+	 Content-Length: 137
+	 Content-Type: Application/x-www-form-urlencoded; charset=UTF-8
+	 Referer: https://twitter.com/ptionacc
+	 X-Requested-With: XMLHttpRequest
+	 Cookie: ____COOOKIES___
+	Connection: close
+
+	# authenticity_token=3faceb6a373f90a19aa98a423e11c7bed8e9a51d&challenges_passed=false&handles_challenges=1&impression_id=&user_id=__User__ID__
+  ~~~~~~~~
+
+  
 URL
 Method
 Authentication
