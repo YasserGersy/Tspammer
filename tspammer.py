@@ -585,11 +585,8 @@ def follow(vars,target,action):
 	# Connection: close
 
 	# authenticity_token=3faceb6a373f90a19aa98a423e11c7bed8e9a51d&challenges_passed=false&handles_challenges=1&impression_id=&user_id=104557267
-	ModeUnfollow=False
-	if len(action)>1:
-		ModeUnfollow=True
-	if action=='':
-		action='follow'
+	
+	
 	target=target.strip()
 
 	vars['lastmsg']='trying to '+action +'  '+target+'  by '+GET(vars,'username')#('un' if ModeUnfollow else '')+'follow '+target
@@ -626,7 +623,7 @@ def follow(vars,target,action):
 	doer=GET(vars,'username')
 	by=('' if doer == 'False' or len(doer)<1 else '  by '+doer)
 
-	if ModeUnfollow is False:
+	if action=='follow':#
 		if r.text.startswith('{"new_state":"following'):#success
 			vars['followsent']='True'
 			vars['follow']='True'
@@ -640,10 +637,11 @@ def follow(vars,target,action):
 		if r.text.startswith('{"new_state":"not-following",'):
 			vars['unfollowsent']='True'
 			vars['lastmsg']='Unfollowed '+target+by
+			vars['follow']='True'
 	vars['respbody']=bod
 	return vars
 def JustFollow(vars,target):
-	return follow(vars,target,'')
+	return follow(vars,target,'follow')
 def JustunFollow(vars,target):
 	return follow(vars,target,'unfollow')
 def getuserid(target):
@@ -1038,7 +1036,7 @@ def isValidNum(x1,min,max):
 		return False
 	return True
 def returnAction(int_):
-	actions=['exit','getid','tweet','like','retweet','follow','reply','dm','spam','report',
+	actions=['exit','getid','tweet','like','retweet','follow','unfollow','reply','dm','spam','report',
 	'check','generate','filter','fix','add','login','show','selffollow']
 	return actions[int_]
 def FixBrockenSessions():
@@ -1231,6 +1229,43 @@ def Leav():
 	prints(STX.Green+STX.lin+STX.White+'\n')
 	exit(0)
 
+def AutoMate_Mass_unFollow(ids):
+	nids=[]
+	prints('\n [+]Getting users ids')
+	for p in ids:
+		if p.isdigit():
+			nids.append(p)
+		else:
+			v=Getcash_user_id(p)
+			if v !=' not found':
+				nids.append(v)
+			prints('\n 	'+p+'   '+v)
+	ids=nids
+	all=0
+	exp=[]
+	counc=0
+	prints('\n    unFollowing ..'+GETUSERNAME(str(ids).encode('utf-8').replace('u','')))
+	for l in ids:
+		li=0
+		sescount=-1
+		for s in par.valid_sessions:
+			sescount=sescount+1
+			counc=counc+1
+			if s in exp:
+				
+				prints('\n Expired skipped')
+				continue
+			s['sesindex']=sescount
+			r=JustunFollow(s,l)
+			StoreValidator(r)
+			if GET(r,'follow')!='False':
+				if GET(r,'dup')!='True' and 'trying to unfollow' not in GET(r,'lastmsg'):
+					li=li+1
+					all=all+1
+			elif GET(r,'expired')=='True':
+				exp.append(s)
+			prints('\n   '+spaces(str(counc),2)+'   '+GET(r,'lastmsg').replace('trying to','Can not '))
+	prints('\n All Follows removed = '+str(all))
 def AutoMate_Mass_Follow(ids):
 	nids=[]
 	prints('\n [+]Getting users ids')
@@ -1246,7 +1281,7 @@ def AutoMate_Mass_Follow(ids):
 	all=0
 	exp=[]
 	counc=0
-	prints('\n    Following ..'+str(ids).encode('utf-8').replace('u',''))
+	prints('\n    Following ..'+GETUSERNAME(str(ids).strip().encode('utf-8').replace('u','')))
 	for l in ids:
 		li=0
 		sescount=-1
@@ -1640,30 +1675,31 @@ _________ _______  _______  _______  _______  _______  _______  _______
 [3 ] -  Like some tweets    		"""+STX.yel+"""
 [4 ] -  Make retweets 				"""+STX.brown+"""
 [5 ] -  Follow some targets 		"""+STX.yel+"""
-[6 ] -  Reply on some tweets 		"""+STX.brown+"""
-[7 ] -  Send DM 					"""+STX.yel+"""
-[8 ] -  Spam some users				"""+STX.yel+"""
-[9 ] -  Report some users			"""+STX.yel+"""
-[10] -  Check current sessions.     """+STX.brown+"""
-[11] -  Generate new sessions. 		"""+STX.yel+"""
-[12] -  Filter expired sessions.    """+STX.brown+"""
-[13] -  Fix Brocken sessions  		"""+STX.yel+"""
-[14] -  Add New Session  			"""+STX.brown+"""
-[15] -  Login 						"""+STX.yel+"""
-[16] -  Show loginers 				"""+STX.yel+"""
-[17] -  Follow yourselves 			"""+STX.yel+"""
+[6 ] -  UnFollow some followings 	"""+STX.yel+"""
+[7 ] -  Reply on some tweets 		"""+STX.brown+"""
+[8 ] -  Send DM 					"""+STX.yel+"""
+[9 ] -  Spam some users				"""+STX.yel+"""
+[10] -  Report some users			"""+STX.yel+"""
+[11] -  Check current sessions.     """+STX.brown+"""
+[12] -  Generate new sessions. 		"""+STX.yel+"""
+[13] -  Filter expired sessions.    """+STX.brown+"""
+[14] -  Fix Brocken sessions  		"""+STX.yel+"""
+[15] -  Add New Session  			"""+STX.brown+"""
+[16] -  Login 						"""+STX.yel+"""
+[17] -  Show loginers 				"""+STX.yel+"""
+[18] -  Follow yourselves 			"""+STX.yel+"""
 [0 ] -  Exit  						"""+STX.brown+"""
 		\n"""+STX.magenta)
 		_ac_=raw_input(STX.Blue+'What is your choice? :'+STX.magenta)
-		validnum=isValidNum(_ac_,0,17)
+		validnum=isValidNum(_ac_,0,18)
 		prints(STX.White)
 		while validnum==False:
-			_ac_=raw_input(STX.Green+'invalid input insert number from (0:17) : '+STX.magenta)
-			validnum=isValidNum(_ac_,0,17)
+			_ac_=raw_input(STX.Green+'invalid input insert number from (0:18) : '+STX.magenta)
+			validnum=isValidNum(_ac_,0,18)
 		App.action=returnAction(int(_ac_))
 		can_interact=len(par.valid_sessions)>0
 		prints('['+App.action+']'+STX.lin+'\n')
-		if int(_ac_) < 9 and int(_ac_)>0 and len(par.valid_sessions) < 1:
+		if int(_ac_) < 11 and int(_ac_)>0 and len(par.valid_sessions) < 1:
 		
 		#	prints('\n no sessions found to perform this action :( , you need to generate or paste to sessions file ')
 		#else:
@@ -1739,8 +1775,14 @@ _________ _______  _______  _______  _______  _______  _______  _______
 		elif App.action=='reply' and can_interact:
 			prints('\n not implemented')#########################
 		
+		elif App.action=='unfollow' and can_interact:
+		 	u=prompt_not_empty(STX.Blue+'Enter Followings usernames , or links separated by comma if many : ')
+		 	uids=SplitIDsUserInputToArray(u,1)
+		 	AutoMate_Mass_unFollow(uids)
+
+
 		elif App.action=='follow' and can_interact:
-		 	u=prompt_not_empty(STX.Blue+'Enter Targets ids , or links separated by comma if many : ')
+		 	u=prompt_not_empty(STX.Blue+'Enter Targets usernames , or links separated by comma if many : ')
 		 	uids=SplitIDsUserInputToArray(u,1)
 		 	AutoMate_Mass_Follow(uids)
 

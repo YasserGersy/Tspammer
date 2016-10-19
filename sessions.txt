@@ -1,354 +1,386 @@
 #cound=16
 
-username -==- hellowo34995113
-sesindex -==- 1
-follow -==- True
-name -==- _Dr Exception_
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCPOU0sRXAToMY3NyZl9p%250AZCIlNjc1ZjQ1NzQ4YmUzY2RjNGZkYzY5ODZiYzdiNGVhNjE6B2lkIiU4NTQ5%250AZWI3ODMyM2Q1ZGZiNjBkMzM5NjM4ZWViZGE1YzoJdXNlcmwrCQAA1rYnGd8K--37a4de1d4403e9d4c40ba0062193a6a5ee1358cb
 auth_token -==- 565AC087F58C7C7F6BE24F323C7D27272A07BBF0
 followsent -==- True
-loginer -==- h.e.l.l.o.w.o.rldthisismrexcep.tionacc@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.o.w.o.rldthisismrexcep.tionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCPOU0sRXAToMY3NyZl9p%250AZCIlNjc1ZjQ1NzQ4YmUzY2RjNGZkYzY5ODZiYzdiNGVhNjE6B2lkIiU4NTQ5%250AZWI3ODMyM2Q1ZGZiNjBkMzM5NjM4ZWViZGE1YzoJdXNlcmwrCQAA1rYnGd8K--37a4de1d4403e9d4c40ba0062193a6a5ee1358cb; auth_token=565AC087F58C7C7F6BE24F323C7D27272A07BBF0; kdt=5tTHbx4NhINWFT0fKjGD0r7Xs51kuJWQCMnY5BcS; remember_checked_on=1; twid="u=783372518547652608";
-hanged -==- True
-authenticity_token -==- ac65f3db0310471e39ef84d0262fdbc18eb874f6
-kdt -==- 5tTHbx4NhINWFT0fKjGD0r7Xs51kuJWQCMnY5BcS
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by hellowo34995113
-id -==- 783372518547652608
 twid -==- "u=783372518547652608"
------------------
-username -==- rldthisismrex
-sesindex -==- 2
+hanged -==- True
+kdt -==- 5tTHbx4NhINWFT0fKjGD0r7Xs51kuJWQCMnY5BcS
 follow -==- True
-name -==- dr exception
+lastmsg -==- Followed       2756193360  by hellowo34995113
+id -==- 783372518547652608
+sesindex -==- 0
+initrequest -==- True
+respbody -==- authenticity_token=ac65f3db0310471e39ef84d0262fdbc18eb874f6&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.o.w.o.rldthisismrexcep.tionacc@gmail.com
+username -==- hellowo34995113
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCPOU0sRXAToMY3NyZl9p%250AZCIlNjc1ZjQ1NzQ4YmUzY2RjNGZkYzY5ODZiYzdiNGVhNjE6B2lkIiU4NTQ5%250AZWI3ODMyM2Q1ZGZiNjBkMzM5NjM4ZWViZGE1YzoJdXNlcmwrCQAA1rYnGd8K--37a4de1d4403e9d4c40ba0062193a6a5ee1358cb; auth_token=565AC087F58C7C7F6BE24F323C7D27272A07BBF0; kdt=5tTHbx4NhINWFT0fKjGD0r7Xs51kuJWQCMnY5BcS; remember_checked_on=1; twid="u=783372518547652608";
+authenticity_token -==- ac65f3db0310471e39ef84d0262fdbc18eb874f6
+sessionrequest -==- True
+name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.o.w.o.rldthisismrexcep.tionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCHSu0sRXAToMY3NyZl9p%250AZCIlMmY0MTAwMTc0OGVjMjc4ZmM1M2JjOTI5ZDhmZjY1YWI6B2lkIiUyM2E1%250AMmNlNDlkNDdjNDE2MmM3N2YzMmQxZTE3MWEwNjoJdXNlcmwrCQAAlnEmGd8K--99b044c80d2b47a62c89b638d374976dc45b7432
 auth_token -==- D5CF2339ACD1A7B494C33D749DCBAF98E344E77C
 followsent -==- True
-loginer -==- h.e.l.l.o.w.o.rldthisismrex.ceptionacc@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.o.w.o.rldthisismrex.ceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCHSu0sRXAToMY3NyZl9p%250AZCIlMmY0MTAwMTc0OGVjMjc4ZmM1M2JjOTI5ZDhmZjY1YWI6B2lkIiUyM2E1%250AMmNlNDlkNDdjNDE2MmM3N2YzMmQxZTE3MWEwNjoJdXNlcmwrCQAAlnEmGd8K--99b044c80d2b47a62c89b638d374976dc45b7432; auth_token=D5CF2339ACD1A7B494C33D749DCBAF98E344E77C; kdt=PKssG7OHrem3Kf8SbDJJsb44xYj7GIZvHKtZLrxA; remember_checked_on=1; twid="u=783372513090863104";
-hanged -==- True
-authenticity_token -==- 98422724a1956898d6742cac085a369874b9489d
-kdt -==- PKssG7OHrem3Kf8SbDJJsb44xYj7GIZvHKtZLrxA
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by rldthisismrex
-id -==- 783372513090863104
 twid -==- "u=783372513090863104"
------------------
-username -==- DrOnacc
-sesindex -==- 3
+hanged -==- True
+kdt -==- PKssG7OHrem3Kf8SbDJJsb44xYj7GIZvHKtZLrxA
 follow -==- True
-name -==- _Dr Exception_
+lastmsg -==- Followed       2756193360  by rldthisismrex
+id -==- 783372513090863104
+sesindex -==- 1
+initrequest -==- True
+respbody -==- authenticity_token=98422724a1956898d6742cac085a369874b9489d&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.o.w.o.rldthisismrex.ceptionacc@gmail.com
+username -==- rldthisismrex
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCHSu0sRXAToMY3NyZl9p%250AZCIlMmY0MTAwMTc0OGVjMjc4ZmM1M2JjOTI5ZDhmZjY1YWI6B2lkIiUyM2E1%250AMmNlNDlkNDdjNDE2MmM3N2YzMmQxZTE3MWEwNjoJdXNlcmwrCQAAlnEmGd8K--99b044c80d2b47a62c89b638d374976dc45b7432; auth_token=D5CF2339ACD1A7B494C33D749DCBAF98E344E77C; kdt=PKssG7OHrem3Kf8SbDJJsb44xYj7GIZvHKtZLrxA; remember_checked_on=1; twid="u=783372513090863104";
+authenticity_token -==- 98422724a1956898d6742cac085a369874b9489d
+sessionrequest -==- True
+name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.o.w.o.rldthisismrex.ceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCAPM0sRXAToMY3NyZl9p%250AZCIlYjhlNGJlZWVmNTIxYTc5Y2VkNzE0Y2M0MmNkOGZjNGQ6B2lkIiVjNjVi%250ANTEwNDdlOGZmMmE4MDM4OTk2N2ZkZWI5OGQ0MzoJdXNlcmwrCQBw1rnGGN8K--1579fa448a45a6d952e77a3e0901eae8fac99890
 auth_token -==- 288F4F139BA0A6F754A08C68ECDF3C830E0D0DEF
 followsent -==- True
-loginer -==- helloworldthisismrexcepti.onacc@gmail.com
-initrequest -==- True
-email -==- helloworldthisismrexcepti.onacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCAPM0sRXAToMY3NyZl9p%250AZCIlYjhlNGJlZWVmNTIxYTc5Y2VkNzE0Y2M0MmNkOGZjNGQ6B2lkIiVjNjVi%250ANTEwNDdlOGZmMmE4MDM4OTk2N2ZkZWI5OGQ0MzoJdXNlcmwrCQBw1rnGGN8K--1579fa448a45a6d952e77a3e0901eae8fac99890; auth_token=288F4F139BA0A6F754A08C68ECDF3C830E0D0DEF; kdt=yp9EtPp6HxkV1ST3uTm38ANygKwMb52gMXp6M0NY; remember_checked_on=1; twid="u=783372101986185216";
-hanged -==- True
-authenticity_token -==- 2300c8de51b266cb6050c8d8fb94e271b49e2eab
-kdt -==- yp9EtPp6HxkV1ST3uTm38ANygKwMb52gMXp6M0NY
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by DrOnacc
-id -==- 783372101986185216
 twid -==- "u=783372101986185216"
------------------
-username -==- nacc_h
-sesindex -==- 4
+hanged -==- True
+kdt -==- yp9EtPp6HxkV1ST3uTm38ANygKwMb52gMXp6M0NY
 follow -==- True
+lastmsg -==- Followed       2756193360  by DrOnacc
+id -==- 783372101986185216
+sesindex -==- 2
+initrequest -==- True
+respbody -==- authenticity_token=2300c8de51b266cb6050c8d8fb94e271b49e2eab&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- helloworldthisismrexcepti.onacc@gmail.com
+username -==- DrOnacc
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCAPM0sRXAToMY3NyZl9p%250AZCIlYjhlNGJlZWVmNTIxYTc5Y2VkNzE0Y2M0MmNkOGZjNGQ6B2lkIiVjNjVi%250ANTEwNDdlOGZmMmE4MDM4OTk2N2ZkZWI5OGQ0MzoJdXNlcmwrCQBw1rnGGN8K--1579fa448a45a6d952e77a3e0901eae8fac99890; auth_token=288F4F139BA0A6F754A08C68ECDF3C830E0D0DEF; kdt=yp9EtPp6HxkV1ST3uTm38ANygKwMb52gMXp6M0NY; remember_checked_on=1; twid="u=783372101986185216";
+authenticity_token -==- 2300c8de51b266cb6050c8d8fb94e271b49e2eab
+sessionrequest -==- True
 name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- helloworldthisismrexcepti.onacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCB4j08RXAToMY3NyZl9p%250AZCIlZDE1MjZmMTkxZTE5NWYwZGYxNTQ2OTUxNWU1Y2JkNzA6B2lkIiViOTZi%250AMTIyYmY1NDgwMTJlZDEwMWFkOWM4ZTdjOTNhOToJdXNlcmwrCQCA18zcGN8K--0da4d86e55bd0f6d9f4392cd1bd83eeeb8904a1b
 auth_token -==- BD0AF1A6F7286C0CC14200F9C3EA17EC3CC88FA4
 followsent -==- True
-loginer -==- h.e.lloworldthisismrexceptio.nacc@gmail.com
-initrequest -==- True
-email -==- h.e.lloworldthisismrexceptio.nacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCB4j08RXAToMY3NyZl9p%250AZCIlZDE1MjZmMTkxZTE5NWYwZGYxNTQ2OTUxNWU1Y2JkNzA6B2lkIiViOTZi%250AMTIyYmY1NDgwMTJlZDEwMWFkOWM4ZTdjOTNhOToJdXNlcmwrCQCA18zcGN8K--0da4d86e55bd0f6d9f4392cd1bd83eeeb8904a1b; auth_token=BD0AF1A6F7286C0CC14200F9C3EA17EC3CC88FA4; kdt=h2W8csELo381mFUm3xS9NYMTDnoYI4Rn7Z2JOTmI; remember_checked_on=1; twid="u=783372196794302464";
-hanged -==- True
-authenticity_token -==- c21ab2a1fc3d1e95ebe5e63f1aef2ae79379c573
-kdt -==- h2W8csELo381mFUm3xS9NYMTDnoYI4Rn7Z2JOTmI
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by nacc_h
-id -==- 783372196794302464
 twid -==- "u=783372196794302464"
------------------
-username -==- elloworldth
-sesindex -==- 5
+hanged -==- True
+kdt -==- h2W8csELo381mFUm3xS9NYMTDnoYI4Rn7Z2JOTmI
 follow -==- True
-name -==- dr exception
+lastmsg -==- Followed       2756193360  by nacc_h
+id -==- 783372196794302464
+sesindex -==- 3
+initrequest -==- True
+respbody -==- authenticity_token=c21ab2a1fc3d1e95ebe5e63f1aef2ae79379c573&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.lloworldthisismrexceptio.nacc@gmail.com
+username -==- nacc_h
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCB4j08RXAToMY3NyZl9p%250AZCIlZDE1MjZmMTkxZTE5NWYwZGYxNTQ2OTUxNWU1Y2JkNzA6B2lkIiViOTZi%250AMTIyYmY1NDgwMTJlZDEwMWFkOWM4ZTdjOTNhOToJdXNlcmwrCQCA18zcGN8K--0da4d86e55bd0f6d9f4392cd1bd83eeeb8904a1b; auth_token=BD0AF1A6F7286C0CC14200F9C3EA17EC3CC88FA4; kdt=h2W8csELo381mFUm3xS9NYMTDnoYI4Rn7Z2JOTmI; remember_checked_on=1; twid="u=783372196794302464";
+authenticity_token -==- c21ab2a1fc3d1e95ebe5e63f1aef2ae79379c573
+sessionrequest -==- True
+name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.lloworldthisismrexceptio.nacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFKw08RXAToMY3NyZl9p%250AZCIlZmJiMzAzNzRhMTQ4MDA3ODQ1OThkNTljOGVlNmRjNTY6B2lkIiVlZDVj%250AMTFiMTM5ZjgxZTdhNWNmNDA0YmRlYTIwNWJiZToJdXNlcmwrCQJglo3MGN8K--71f2e84ea5b5179d4cc8bab69dad78aa68be39ac
 auth_token -==- 74841531143B7467FEABC4B4EE6D2EA3A2C0F034
 followsent -==- True
-loginer -==- h.elloworldth.isismrexceptionacc@gmail.com
-initrequest -==- True
-email -==- h.elloworldth.isismrexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFKw08RXAToMY3NyZl9p%250AZCIlZmJiMzAzNzRhMTQ4MDA3ODQ1OThkNTljOGVlNmRjNTY6B2lkIiVlZDVj%250AMTFiMTM5ZjgxZTdhNWNmNDA0YmRlYTIwNWJiZToJdXNlcmwrCQJglo3MGN8K--71f2e84ea5b5179d4cc8bab69dad78aa68be39ac; auth_token=74841531143B7467FEABC4B4EE6D2EA3A2C0F034; kdt=Cb3a8xkd9i8kKbRZbTdUZfQHPkF6bnQXHLRKjuKn; remember_checked_on=1; twid="u=783372127013593090";
-hanged -==- True
-authenticity_token -==- a8b8f577a32b7b7f1045236c930543ddf964239c
-kdt -==- Cb3a8xkd9i8kKbRZbTdUZfQHPkF6bnQXHLRKjuKn
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by elloworldth
-id -==- 783372127013593090
 twid -==- "u=783372127013593090"
------------------
-username -==- c_exception
-sesindex -==- 6
+hanged -==- True
+kdt -==- Cb3a8xkd9i8kKbRZbTdUZfQHPkF6bnQXHLRKjuKn
 follow -==- True
+lastmsg -==- Followed       2756193360  by elloworldth
+id -==- 783372127013593090
+sesindex -==- 4
+initrequest -==- True
+respbody -==- authenticity_token=a8b8f577a32b7b7f1045236c930543ddf964239c&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.elloworldth.isismrexceptionacc@gmail.com
+username -==- elloworldth
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFKw08RXAToMY3NyZl9p%250AZCIlZmJiMzAzNzRhMTQ4MDA3ODQ1OThkNTljOGVlNmRjNTY6B2lkIiVlZDVj%250AMTFiMTM5ZjgxZTdhNWNmNDA0YmRlYTIwNWJiZToJdXNlcmwrCQJglo3MGN8K--71f2e84ea5b5179d4cc8bab69dad78aa68be39ac; auth_token=74841531143B7467FEABC4B4EE6D2EA3A2C0F034; kdt=Cb3a8xkd9i8kKbRZbTdUZfQHPkF6bnQXHLRKjuKn; remember_checked_on=1; twid="u=783372127013593090";
+authenticity_token -==- a8b8f577a32b7b7f1045236c930543ddf964239c
+sessionrequest -==- True
 name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.elloworldth.isismrexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCC4q1MRXAToMY3NyZl9p%250AZCIlMjQ0MTI0NzE5YjYxMTQ4M2Y4MzMyNTc5OGM3OWE0MjY6B2lkIiVhNDdl%250AOWY2ZjZmM2Q0Y2ViNTZlZGUzNGYyM2QyNzU5ZDoJdXNlcmwrCQFgVgfIGN8K--5d7cbd63c203b26f0aaf59a52f57d7addd381065
 auth_token -==- D2BA49C7F42B60872533ED2ECACDD74A7AC456AB
 followsent -==- True
-loginer -==- helloworldthisismrexceptionac.c@gmail.com
-initrequest -==- True
-email -==- helloworldthisismrexceptionac.c@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCC4q1MRXAToMY3NyZl9p%250AZCIlMjQ0MTI0NzE5YjYxMTQ4M2Y4MzMyNTc5OGM3OWE0MjY6B2lkIiVhNDdl%250AOWY2ZjZmM2Q0Y2ViNTZlZGUzNGYyM2QyNzU5ZDoJdXNlcmwrCQFgVgfIGN8K--5d7cbd63c203b26f0aaf59a52f57d7addd381065; auth_token=D2BA49C7F42B60872533ED2ECACDD74A7AC456AB; kdt=mUkS6uBA4lu2oEeCqijrtYGIk3CeyniolMRfdbSa; remember_checked_on=1; twid="u=783372107581382657";
-hanged -==- True
-authenticity_token -==- 67a5eafd646c76fb1a37fd66e25380c418bc6e25
-kdt -==- mUkS6uBA4lu2oEeCqijrtYGIk3CeyniolMRfdbSa
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by c_exception
-id -==- 783372107581382657
 twid -==- "u=783372107581382657"
------------------
-username -==- helloworldthis7
-sesindex -==- 7
+hanged -==- True
+kdt -==- mUkS6uBA4lu2oEeCqijrtYGIk3CeyniolMRfdbSa
 follow -==- True
-name -==- _Dr Exception_
+lastmsg -==- Followed       2756193360  by c_exception
+id -==- 783372107581382657
+sesindex -==- 5
+initrequest -==- True
+respbody -==- authenticity_token=67a5eafd646c76fb1a37fd66e25380c418bc6e25&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- helloworldthisismrexceptionac.c@gmail.com
+username -==- c_exception
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCC4q1MRXAToMY3NyZl9p%250AZCIlMjQ0MTI0NzE5YjYxMTQ4M2Y4MzMyNTc5OGM3OWE0MjY6B2lkIiVhNDdl%250AOWY2ZjZmM2Q0Y2ViNTZlZGUzNGYyM2QyNzU5ZDoJdXNlcmwrCQFgVgfIGN8K--5d7cbd63c203b26f0aaf59a52f57d7addd381065; auth_token=D2BA49C7F42B60872533ED2ECACDD74A7AC456AB; kdt=mUkS6uBA4lu2oEeCqijrtYGIk3CeyniolMRfdbSa; remember_checked_on=1; twid="u=783372107581382657";
+authenticity_token -==- 67a5eafd646c76fb1a37fd66e25380c418bc6e25
+sessionrequest -==- True
+name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- helloworldthisismrexceptionac.c@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFWP1MRXAToMY3NyZl9p%250AZCIlYjE0NmQ5NGMzNzU1YTQ4ZDJjMDljY2UyZTk0MDcyNTY6B2lkIiVhOTM4%250AMWUzYzM5ZGY1MjExMTMzOTk1ZTIxNzMwMDA2ZToJdXNlcmwrCQAQ1w%252FKGN8K--413dfea0d4f4551d41504f91bff6873e48fd5615
 auth_token -==- F2903FB344799D8EF0B7262A0AD052C92FBB53A1
 followsent -==- True
-loginer -==- h.ello.worldthisismrexceptionacc@gmail.com
-initrequest -==- True
-email -==- h.ello.worldthisismrexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFWP1MRXAToMY3NyZl9p%250AZCIlYjE0NmQ5NGMzNzU1YTQ4ZDJjMDljY2UyZTk0MDcyNTY6B2lkIiVhOTM4%250AMWUzYzM5ZGY1MjExMTMzOTk1ZTIxNzMwMDA2ZToJdXNlcmwrCQAQ1w%252FKGN8K--413dfea0d4f4551d41504f91bff6873e48fd5615; auth_token=F2903FB344799D8EF0B7262A0AD052C92FBB53A1; kdt=vy2WkbJz0u9mnaAEsAF4XM3Y1AQK5eAym2Z2ECB9; remember_checked_on=1; twid="u=783372116313968640";
-hanged -==- True
-authenticity_token -==- c3f4976aefea0e6ab11265a45a5491c1ea876ba9
-kdt -==- vy2WkbJz0u9mnaAEsAF4XM3Y1AQK5eAym2Z2ECB9
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by helloworldthis7
-id -==- 783372116313968640
 twid -==- "u=783372116313968640"
------------------
-username -==- helloworldthis
-sesindex -==- 8
+hanged -==- True
+kdt -==- vy2WkbJz0u9mnaAEsAF4XM3Y1AQK5eAym2Z2ECB9
 follow -==- True
+lastmsg -==- Followed       2756193360  by helloworldthis7
+id -==- 783372116313968640
+sesindex -==- 6
+initrequest -==- True
+respbody -==- authenticity_token=c3f4976aefea0e6ab11265a45a5491c1ea876ba9&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.ello.worldthisismrexceptionacc@gmail.com
+username -==- helloworldthis7
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFWP1MRXAToMY3NyZl9p%250AZCIlYjE0NmQ5NGMzNzU1YTQ4ZDJjMDljY2UyZTk0MDcyNTY6B2lkIiVhOTM4%250AMWUzYzM5ZGY1MjExMTMzOTk1ZTIxNzMwMDA2ZToJdXNlcmwrCQAQ1w%252FKGN8K--413dfea0d4f4551d41504f91bff6873e48fd5615; auth_token=F2903FB344799D8EF0B7262A0AD052C92FBB53A1; kdt=vy2WkbJz0u9mnaAEsAF4XM3Y1AQK5eAym2Z2ECB9; remember_checked_on=1; twid="u=783372116313968640";
+authenticity_token -==- c3f4976aefea0e6ab11265a45a5491c1ea876ba9
+sessionrequest -==- True
 name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.ello.worldthisismrexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCByf1MRXAToMY3NyZl9p%250AZCIlZGRiYmE4ODUzMzI3NjYyMDgxMjEyZjVmYjE3NWQ4ZTA6B2lkIiUxODVl%250AMDY5Y2Q4YzIzODEwNTZmOWUzNGRhNWQwYjhlYToJdXNlcmwrCQDwVoTCGN8K--f92697598bf99237fd71560f1be3a9fb91d6aaaa
 auth_token -==- 4A4EBD6661EA475D925400B380AD017A209AA5A5
 followsent -==- True
-loginer -==- helloworldthis.ismrexceptionacc@gmail.com
-initrequest -==- True
-email -==- helloworldthis.ismrexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCByf1MRXAToMY3NyZl9p%250AZCIlZGRiYmE4ODUzMzI3NjYyMDgxMjEyZjVmYjE3NWQ4ZTA6B2lkIiUxODVl%250AMDY5Y2Q4YzIzODEwNTZmOWUzNGRhNWQwYjhlYToJdXNlcmwrCQDwVoTCGN8K--f92697598bf99237fd71560f1be3a9fb91d6aaaa; auth_token=4A4EBD6661EA475D925400B380AD017A209AA5A5; kdt=U0b6FLW4AiwGVNoCuRm3rqHFsSYob7OrHrRZZ1E1; remember_checked_on=1; twid="u=783372083908767744";
-hanged -==- True
-authenticity_token -==- 1f0d09a184c8433f1f78d53a1c050860b7ac38a6
-kdt -==- U0b6FLW4AiwGVNoCuRm3rqHFsSYob7OrHrRZZ1E1
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by helloworldthis
-id -==- 783372083908767744
 twid -==- "u=783372083908767744"
------------------
-username -==- helloworldthi10
-sesindex -==- 9
+hanged -==- True
+kdt -==- U0b6FLW4AiwGVNoCuRm3rqHFsSYob7OrHrRZZ1E1
 follow -==- True
-name -==- dr exception
+lastmsg -==- Followed       2756193360  by helloworldthis
+id -==- 783372083908767744
+sesindex -==- 7
+initrequest -==- True
+respbody -==- authenticity_token=1f0d09a184c8433f1f78d53a1c050860b7ac38a6&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- helloworldthis.ismrexceptionacc@gmail.com
+username -==- helloworldthis
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCByf1MRXAToMY3NyZl9p%250AZCIlZGRiYmE4ODUzMzI3NjYyMDgxMjEyZjVmYjE3NWQ4ZTA6B2lkIiUxODVl%250AMDY5Y2Q4YzIzODEwNTZmOWUzNGRhNWQwYjhlYToJdXNlcmwrCQDwVoTCGN8K--f92697598bf99237fd71560f1be3a9fb91d6aaaa; auth_token=4A4EBD6661EA475D925400B380AD017A209AA5A5; kdt=U0b6FLW4AiwGVNoCuRm3rqHFsSYob7OrHrRZZ1E1; remember_checked_on=1; twid="u=783372083908767744";
+authenticity_token -==- 1f0d09a184c8433f1f78d53a1c050860b7ac38a6
+sessionrequest -==- True
+name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- helloworldthis.ismrexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCEWy1MRXAToMY3NyZl9p%250AZCIlOWI4MDFkNzEyYjFhODAxMjczNjQxYTBmYmNkMmNiNDM6B2lkIiU4MDhl%250ANzQyOTU2MmFiMjkzMzUwZDdiNGUyNTU0YjkzMzoJdXNlcmwrCQAQ13zSGN8K--7b99990e0512de2f8711b9a794ef01e4f9a7b9cd
 auth_token -==- 1ADB083EB037DAFAA2BA885B9B2CCA107A3092F1
 followsent -==- True
-loginer -==- h.elloworldthisismrexceptiona.cc@gmail.com
-initrequest -==- True
-email -==- h.elloworldthisismrexceptiona.cc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCEWy1MRXAToMY3NyZl9p%250AZCIlOWI4MDFkNzEyYjFhODAxMjczNjQxYTBmYmNkMmNiNDM6B2lkIiU4MDhl%250ANzQyOTU2MmFiMjkzMzUwZDdiNGUyNTU0YjkzMzoJdXNlcmwrCQAQ13zSGN8K--7b99990e0512de2f8711b9a794ef01e4f9a7b9cd; auth_token=1ADB083EB037DAFAA2BA885B9B2CCA107A3092F1; kdt=s7uDTFzrep5fPjZX6ICgYucsllrVnXhezxikj9RP; remember_checked_on=1; twid="u=783372152502423552";
-hanged -==- True
-authenticity_token -==- bf9514385053c6331d0cff7087f6d5050a12c259
-kdt -==- s7uDTFzrep5fPjZX6ICgYucsllrVnXhezxikj9RP
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by helloworldthi10
-id -==- 783372152502423552
 twid -==- "u=783372152502423552"
------------------
-username -==- helloworldthis3
-sesindex -==- 10
+hanged -==- True
+kdt -==- s7uDTFzrep5fPjZX6ICgYucsllrVnXhezxikj9RP
 follow -==- True
-name -==- _Dr Exception_
+lastmsg -==- Followed       2756193360  by helloworldthi10
+id -==- 783372152502423552
+sesindex -==- 8
+initrequest -==- True
+respbody -==- authenticity_token=bf9514385053c6331d0cff7087f6d5050a12c259&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.elloworldthisismrexceptiona.cc@gmail.com
+username -==- helloworldthi10
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCEWy1MRXAToMY3NyZl9p%250AZCIlOWI4MDFkNzEyYjFhODAxMjczNjQxYTBmYmNkMmNiNDM6B2lkIiU4MDhl%250ANzQyOTU2MmFiMjkzMzUwZDdiNGUyNTU0YjkzMzoJdXNlcmwrCQAQ13zSGN8K--7b99990e0512de2f8711b9a794ef01e4f9a7b9cd; auth_token=1ADB083EB037DAFAA2BA885B9B2CCA107A3092F1; kdt=s7uDTFzrep5fPjZX6ICgYucsllrVnXhezxikj9RP; remember_checked_on=1; twid="u=783372152502423552";
+authenticity_token -==- bf9514385053c6331d0cff7087f6d5050a12c259
+sessionrequest -==- True
+name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.elloworldthisismrexceptiona.cc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFnI1MRXAToMY3NyZl9p%250AZCIlNGE0OTcxZDE0MjhiM2Q0ZjM1MmFkZTc1MjlkNTFmNWY6B2lkIiU3Y2U5%250AMDAxMjdkZmI5MGRlZjQyMDI0ZDI4MzBkN2Q0ZToJdXNlcmwrCQDw1sbdEt8K--b89aca536f3ceb23a27d9aa8cb0ed7d208d15241
 auth_token -==- FD826C21C50F8C156FDC62E2E46ABD17F2EBC9BA
 followsent -==- True
-loginer -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.a.c.c@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.a.c.c@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFnI1MRXAToMY3NyZl9p%250AZCIlNGE0OTcxZDE0MjhiM2Q0ZjM1MmFkZTc1MjlkNTFmNWY6B2lkIiU3Y2U5%250AMDAxMjdkZmI5MGRlZjQyMDI0ZDI4MzBkN2Q0ZToJdXNlcmwrCQDw1sbdEt8K--b89aca536f3ceb23a27d9aa8cb0ed7d208d15241; auth_token=FD826C21C50F8C156FDC62E2E46ABD17F2EBC9BA; kdt=yJiMbMpILEKAiRAA7bo0YnniV834VJy2iryPjUCf; remember_checked_on=1; twid="u=783365603918802944";
-hanged -==- True
-authenticity_token -==- f44593ba196b41bba83416199f6cd349299a49d0
-kdt -==- yJiMbMpILEKAiRAA7bo0YnniV834VJy2iryPjUCf
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by helloworldthis3
-id -==- 783365603918802944
 twid -==- "u=783365603918802944"
------------------
-username -==- hellowo36197050
-sesindex -==- 11
+hanged -==- True
+kdt -==- yJiMbMpILEKAiRAA7bo0YnniV834VJy2iryPjUCf
 follow -==- True
+lastmsg -==- Followed       2756193360  by helloworldthis3
+id -==- 783365603918802944
+sesindex -==- 9
+initrequest -==- True
+respbody -==- authenticity_token=f44593ba196b41bba83416199f6cd349299a49d0&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.a.c.c@gmail.com
+username -==- helloworldthis3
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFnI1MRXAToMY3NyZl9p%250AZCIlNGE0OTcxZDE0MjhiM2Q0ZjM1MmFkZTc1MjlkNTFmNWY6B2lkIiU3Y2U5%250AMDAxMjdkZmI5MGRlZjQyMDI0ZDI4MzBkN2Q0ZToJdXNlcmwrCQDw1sbdEt8K--b89aca536f3ceb23a27d9aa8cb0ed7d208d15241; auth_token=FD826C21C50F8C156FDC62E2E46ABD17F2EBC9BA; kdt=yJiMbMpILEKAiRAA7bo0YnniV834VJy2iryPjUCf; remember_checked_on=1; twid="u=783365603918802944";
+authenticity_token -==- f44593ba196b41bba83416199f6cd349299a49d0
+sessionrequest -==- True
 name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.a.c.c@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCNTm1MRXAToMY3NyZl9p%250AZCIlZDgwODExZTExYzRhZDFmYTQ1OWIxZmVkY2RhOWJjNzk6B2lkIiVmMTQ3%250ANTViYzkyYTc2YWYwZWNmZWRlMWY0OWY5NjIxYzoJdXNlcmwrCQBgFmsyGd8K--0e290f76c1ce7c17aec92e2467b3f57e8aa3aac7
 auth_token -==- 2D69A8018124AA71794CAFD7E510A730580A3544
 followsent -==- True
-loginer -==- h.e.l.l.o.w.o.r.l.d.thisismrexceptionacc@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.o.w.o.r.l.d.thisismrexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCNTm1MRXAToMY3NyZl9p%250AZCIlZDgwODExZTExYzRhZDFmYTQ1OWIxZmVkY2RhOWJjNzk6B2lkIiVmMTQ3%250ANTViYzkyYTc2YWYwZWNmZWRlMWY0OWY5NjIxYzoJdXNlcmwrCQBgFmsyGd8K--0e290f76c1ce7c17aec92e2467b3f57e8aa3aac7; auth_token=2D69A8018124AA71794CAFD7E510A730580A3544; kdt=IXYejd5dau1MAeCHFtXQTg3SvHpFMiUNrHXSQ5Hg; remember_checked_on=1; twid="u=783372564521443328";
-hanged -==- True
-authenticity_token -==- 9e7daab5bbc7a2a506be30f56799cf60cc71b1f2
-kdt -==- IXYejd5dau1MAeCHFtXQTg3SvHpFMiUNrHXSQ5Hg
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by hellowo36197050
-id -==- 783372564521443328
 twid -==- "u=783372564521443328"
------------------
-username -==- ptionacc
-sesindex -==- 12
+hanged -==- True
+kdt -==- IXYejd5dau1MAeCHFtXQTg3SvHpFMiUNrHXSQ5Hg
 follow -==- True
+lastmsg -==- Followed       2756193360  by hellowo36197050
+id -==- 783372564521443328
+sesindex -==- 10
+initrequest -==- True
+respbody -==- authenticity_token=9e7daab5bbc7a2a506be30f56799cf60cc71b1f2&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.o.w.o.r.l.d.thisismrexceptionacc@gmail.com
+username -==- hellowo36197050
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCNTm1MRXAToMY3NyZl9p%250AZCIlZDgwODExZTExYzRhZDFmYTQ1OWIxZmVkY2RhOWJjNzk6B2lkIiVmMTQ3%250ANTViYzkyYTc2YWYwZWNmZWRlMWY0OWY5NjIxYzoJdXNlcmwrCQBgFmsyGd8K--0e290f76c1ce7c17aec92e2467b3f57e8aa3aac7; auth_token=2D69A8018124AA71794CAFD7E510A730580A3544; kdt=IXYejd5dau1MAeCHFtXQTg3SvHpFMiUNrHXSQ5Hg; remember_checked_on=1; twid="u=783372564521443328";
+authenticity_token -==- 9e7daab5bbc7a2a506be30f56799cf60cc71b1f2
+sessionrequest -==- True
 name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.o.w.o.r.l.d.thisismrexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOYZ1cRXAToMY3NyZl9p%250AZCIlZTYwNTg3YzY0ZmZhOTA0ZjhkZTM1MmUwOWJjMmY5ODg6B2lkIiViYTUy%250AMjg2OTcwMGVhNzA5YjUxOTc0NjMzZGI5MjMxMzoJdXNlcmwrCQCAVqPFGN8K--d8b1debd0c506839785f1af48ea7cfbf4224ec2e
 auth_token -==- AE1764C09ACC94A6844180AB434DD7AFFDE8A607
 followsent -==- True
-loginer -==- helloworldthisismrexce.ptionacc@gmail.com
-initrequest -==- True
-email -==- helloworldthisismrexce.ptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOYZ1cRXAToMY3NyZl9p%250AZCIlZTYwNTg3YzY0ZmZhOTA0ZjhkZTM1MmUwOWJjMmY5ODg6B2lkIiViYTUy%250AMjg2OTcwMGVhNzA5YjUxOTc0NjMzZGI5MjMxMzoJdXNlcmwrCQCAVqPFGN8K--d8b1debd0c506839785f1af48ea7cfbf4224ec2e; auth_token=AE1764C09ACC94A6844180AB434DD7AFFDE8A607; kdt=lQLHvScEbS1Uh5L4w4AqOA3oEdJKPwtlXwfxPEvD; remember_checked_on=1; twid="u=783372097313734656";
-hanged -==- True
-authenticity_token -==- 4c94f0c1d83a9801f5be77f8e7d8e84d664150b5
-kdt -==- lQLHvScEbS1Uh5L4w4AqOA3oEdJKPwtlXwfxPEvD
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by ptionacc
-id -==- 783372097313734656
 twid -==- "u=783372097313734656"
------------------
-username -==- hellowo73921638
-sesindex -==- 13
+hanged -==- True
+kdt -==- lQLHvScEbS1Uh5L4w4AqOA3oEdJKPwtlXwfxPEvD
 follow -==- True
-name -==- dr exception
+lastmsg -==- Followed       2756193360  by ptionacc
+id -==- 783372097313734656
+sesindex -==- 11
+initrequest -==- True
+respbody -==- authenticity_token=4c94f0c1d83a9801f5be77f8e7d8e84d664150b5&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- helloworldthisismrexce.ptionacc@gmail.com
+username -==- ptionacc
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOYZ1cRXAToMY3NyZl9p%250AZCIlZTYwNTg3YzY0ZmZhOTA0ZjhkZTM1MmUwOWJjMmY5ODg6B2lkIiViYTUy%250AMjg2OTcwMGVhNzA5YjUxOTc0NjMzZGI5MjMxMzoJdXNlcmwrCQCAVqPFGN8K--d8b1debd0c506839785f1af48ea7cfbf4224ec2e; auth_token=AE1764C09ACC94A6844180AB434DD7AFFDE8A607; kdt=lQLHvScEbS1Uh5L4w4AqOA3oEdJKPwtlXwfxPEvD; remember_checked_on=1; twid="u=783372097313734656";
+authenticity_token -==- 4c94f0c1d83a9801f5be77f8e7d8e84d664150b5
+sessionrequest -==- True
+name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- helloworldthisismrexce.ptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCCMq1cRXAToMY3NyZl9p%250AZCIlMTI4ZDY3MmQ5YmViYWViMWQ4MGIwNGE3MzhkMjQ4ZGQ6B2lkIiVjNzhl%250AYzE4MWJkYmQ3MDIyNTViMGZhMDNmNDJhNzY4MDoJdXNlcmwrCQBg1heXGd8K--0a5fbdabfa3941cdee097979c41b36987f7d6764
 auth_token -==- CE6E82CB9C06EBD15292070884211D8E8070FA9C
 followsent -==- True
-loginer -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.ac.c@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.ac.c@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCCMq1cRXAToMY3NyZl9p%250AZCIlMTI4ZDY3MmQ5YmViYWViMWQ4MGIwNGE3MzhkMjQ4ZGQ6B2lkIiVjNzhl%250AYzE4MWJkYmQ3MDIyNTViMGZhMDNmNDJhNzY4MDoJdXNlcmwrCQBg1heXGd8K--0a5fbdabfa3941cdee097979c41b36987f7d6764; auth_token=CE6E82CB9C06EBD15292070884211D8E8070FA9C; kdt=oINU4LM3hS8jEHRGjtdc3zSaBkSVeTCTHeQVByHj; remember_checked_on=1; twid="u=783372996916436992";
-hanged -==- True
-authenticity_token -==- b92bf14486af9347f110a00f085dd76394aca3f5
-kdt -==- oINU4LM3hS8jEHRGjtdc3zSaBkSVeTCTHeQVByHj
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by hellowo73921638
-id -==- 783372996916436992
 twid -==- "u=783372996916436992"
------------------
-username -==- oworldthisism
-sesindex -==- 14
+hanged -==- True
+kdt -==- oINU4LM3hS8jEHRGjtdc3zSaBkSVeTCTHeQVByHj
 follow -==- True
+lastmsg -==- Followed       2756193360  by hellowo73921638
+id -==- 783372996916436992
+sesindex -==- 12
+initrequest -==- True
+respbody -==- authenticity_token=b92bf14486af9347f110a00f085dd76394aca3f5&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.ac.c@gmail.com
+username -==- hellowo73921638
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCCMq1cRXAToMY3NyZl9p%250AZCIlMTI4ZDY3MmQ5YmViYWViMWQ4MGIwNGE3MzhkMjQ4ZGQ6B2lkIiVjNzhl%250AYzE4MWJkYmQ3MDIyNTViMGZhMDNmNDJhNzY4MDoJdXNlcmwrCQBg1heXGd8K--0a5fbdabfa3941cdee097979c41b36987f7d6764; auth_token=CE6E82CB9C06EBD15292070884211D8E8070FA9C; kdt=oINU4LM3hS8jEHRGjtdc3zSaBkSVeTCTHeQVByHj; remember_checked_on=1; twid="u=783372996916436992";
+authenticity_token -==- b92bf14486af9347f110a00f085dd76394aca3f5
+sessionrequest -==- True
 name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.o.w.o.r.l.d.t.h.i.s.i.s.m.r.e.x.c.e.p.t.i.o.n.ac.c@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCLg51cRXAToMY3NyZl9p%250AZCIlMmJjNmY3MWMyMDZkNjg1MTdhOWQ0MWIxNThkNjI4NTI6B2lkIiUwMzNi%250ANGNjYzQwMjk1NGEwMzdiYzU0MjY0MDk1NzMwNjoJdXNlcmwrCQAQ18T5GN8K--f44872202d507bade74f07c04a159945912a00be
 auth_token -==- AAA383FDFC591491D0FAC29A93B629ABAB8E712B
 followsent -==- True
-loginer -==- h.e.l.l.oworldthisism.rexceptionacc@gmail.com
-initrequest -==- True
-email -==- h.e.l.l.oworldthisism.rexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCLg51cRXAToMY3NyZl9p%250AZCIlMmJjNmY3MWMyMDZkNjg1MTdhOWQ0MWIxNThkNjI4NTI6B2lkIiUwMzNi%250ANGNjYzQwMjk1NGEwMzdiYzU0MjY0MDk1NzMwNjoJdXNlcmwrCQAQ18T5GN8K--f44872202d507bade74f07c04a159945912a00be; auth_token=AAA383FDFC591491D0FAC29A93B629ABAB8E712B; kdt=sBluSjhSU1QNXCtPDkKl6JA5wSedNkrLRWKYtIu0; remember_checked_on=1; twid="u=783372321214107648";
-hanged -==- True
-authenticity_token -==- f141eccd54b6191874a3b7d3c00633eb5b331ed0
-kdt -==- sBluSjhSU1QNXCtPDkKl6JA5wSedNkrLRWKYtIu0
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by oworldthisism
-id -==- 783372321214107648
 twid -==- "u=783372321214107648"
------------------
-username -==- EllowoH
-sesindex -==- 15
+hanged -==- True
+kdt -==- sBluSjhSU1QNXCtPDkKl6JA5wSedNkrLRWKYtIu0
 follow -==- True
-name -==- _Dr Exception_
+lastmsg -==- Followed       2756193360  by oworldthisism
+id -==- 783372321214107648
+sesindex -==- 13
+initrequest -==- True
+respbody -==- authenticity_token=f141eccd54b6191874a3b7d3c00633eb5b331ed0&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.e.l.l.oworldthisism.rexceptionacc@gmail.com
+username -==- oworldthisism
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCLg51cRXAToMY3NyZl9p%250AZCIlMmJjNmY3MWMyMDZkNjg1MTdhOWQ0MWIxNThkNjI4NTI6B2lkIiUwMzNi%250ANGNjYzQwMjk1NGEwMzdiYzU0MjY0MDk1NzMwNjoJdXNlcmwrCQAQ18T5GN8K--f44872202d507bade74f07c04a159945912a00be; auth_token=AAA383FDFC591491D0FAC29A93B629ABAB8E712B; kdt=sBluSjhSU1QNXCtPDkKl6JA5wSedNkrLRWKYtIu0; remember_checked_on=1; twid="u=783372321214107648";
+authenticity_token -==- f141eccd54b6191874a3b7d3c00633eb5b331ed0
+sessionrequest -==- True
+name -==- dr exception
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.e.l.l.oworldthisism.rexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCJlO1cRXAToMY3NyZl9p%250AZCIlNTBiMTk1ODdmZGZmNzI0OWUzODBkMTNiMTYyZDhiZGU6B2lkIiUxZTIw%250AOWJkZjE4MDk1ZjRhYjIyNzQ0OGJmNTIyZTVmODoJdXNlcmwrCQAQVqnKGN8K--1ce4b355a449e9f1684d6ca6f8b3945c38978c4d
 auth_token -==- 48A07AF8AE4EC563FCE9D969CECA96FFEA1076E1
 followsent -==- True
-loginer -==- h.ellowo.rldthisismrexceptionacc@gmail.com
-initrequest -==- True
-email -==- h.ellowo.rldthisismrexceptionacc@gmail.com
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCJlO1cRXAToMY3NyZl9p%250AZCIlNTBiMTk1ODdmZGZmNzI0OWUzODBkMTNiMTYyZDhiZGU6B2lkIiUxZTIw%250AOWJkZjE4MDk1ZjRhYjIyNzQ0OGJmNTIyZTVmODoJdXNlcmwrCQAQVqnKGN8K--1ce4b355a449e9f1684d6ca6f8b3945c38978c4d; auth_token=48A07AF8AE4EC563FCE9D969CECA96FFEA1076E1; kdt=V487KWCoH6z7nzZux8p0EfcgTkehFaLpmPdhRQm3; remember_checked_on=1; twid="u=783372118889205760";
-hanged -==- True
-authenticity_token -==- 940475192ee9be6de1d3bcd85acd3b19f6cadde8
-kdt -==- V487KWCoH6z7nzZux8p0EfcgTkehFaLpmPdhRQm3
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by EllowoH
-id -==- 783372118889205760
 twid -==- "u=783372118889205760"
------------------
-username -==- elloworldthis
-sesindex -==- 16
+hanged -==- True
+kdt -==- V487KWCoH6z7nzZux8p0EfcgTkehFaLpmPdhRQm3
 follow -==- True
+lastmsg -==- Followed       2756193360  by EllowoH
+id -==- 783372118889205760
+sesindex -==- 14
+initrequest -==- True
+respbody -==- authenticity_token=940475192ee9be6de1d3bcd85acd3b19f6cadde8&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- h.ellowo.rldthisismrexceptionacc@gmail.com
+username -==- EllowoH
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCJlO1cRXAToMY3NyZl9p%250AZCIlNTBiMTk1ODdmZGZmNzI0OWUzODBkMTNiMTYyZDhiZGU6B2lkIiUxZTIw%250AOWJkZjE4MDk1ZjRhYjIyNzQ0OGJmNTIyZTVmODoJdXNlcmwrCQAQVqnKGN8K--1ce4b355a449e9f1684d6ca6f8b3945c38978c4d; auth_token=48A07AF8AE4EC563FCE9D969CECA96FFEA1076E1; kdt=V487KWCoH6z7nzZux8p0EfcgTkehFaLpmPdhRQm3; remember_checked_on=1; twid="u=783372118889205760";
+authenticity_token -==- 940475192ee9be6de1d3bcd85acd3b19f6cadde8
+sessionrequest -==- True
 name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- h.ellowo.rldthisismrexceptionacc@gmail.com
+-----------------
 _twitter_sess -==- BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCE6d%252BcdXAToMY3NyZl9p%250AZCIlMzdmMjA3Njc0Y2MyNTE2YzFlNzhjZjc5YzkyODliMTE6B2lkIiVjOWYx%250AODk1Y2IwYzA1YWM1NzU4MDU1NTZkNzU3Y2M0ODoJdXNlcmwrCQHw1hLNGN8K--e703c81d7b582dc88deb7e8a28babbabf575cbfe
 auth_token -==- 390D154BA092D33C0F40A848207C85CE2A7F6BB4
 followsent -==- True
-initrequest -==- True
-id -==- 783372129249193985
-reported -==- True
-valid -==- True
-cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCE6d%252BcdXAToMY3NyZl9p%250AZCIlMzdmMjA3Njc0Y2MyNTE2YzFlNzhjZjc5YzkyODliMTE6B2lkIiVjOWYx%250AODk1Y2IwYzA1YWM1NzU4MDU1NTZkNzU3Y2M0ODoJdXNlcmwrCQHw1hLNGN8K--e703c81d7b582dc88deb7e8a28babbabf575cbfe; auth_token=390D154BA092D33C0F40A848207C85CE2A7F6BB4; kdt=jhemzFF5LZvrK0qJn5Nc86L0OAHJvmHFBWiuUzF3; remember_checked_on=1; twid="u=783372129249193985";
-hanged -==- True
-email -==- elloworldthis
-authenticity_token -==- 21d3cedd49a781f678fb999501722fcda7d24925
-kdt -==- jhemzFF5LZvrK0qJn5Nc86L0OAHJvmHFBWiuUzF3
-sessionrequest -==- True
-deserialized -==- True
-lastmsg -==- Reprted Canadian19997 by elloworldthis
-loginer -==- elloworldthis
 twid -==- "u=783372129249193985"
+hanged -==- True
+kdt -==- jhemzFF5LZvrK0qJn5Nc86L0OAHJvmHFBWiuUzF3
+follow -==- True
+lastmsg -==- Followed       2756193360  by elloworldthis
+id -==- 783372129249193985
+sesindex -==- 15
+initrequest -==- True
+respbody -==- authenticity_token=21d3cedd49a781f678fb999501722fcda7d24925&challenges_passed=false&handles_challenges=1&impression_id=&user_id=2756193360
+valid -==- True
+email -==- elloworldthis
+username -==- elloworldthis
+reported -==- True
+cookie -==-  _twitter_sess=BAh7CiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCE6d%252BcdXAToMY3NyZl9p%250AZCIlMzdmMjA3Njc0Y2MyNTE2YzFlNzhjZjc5YzkyODliMTE6B2lkIiVjOWYx%250AODk1Y2IwYzA1YWM1NzU4MDU1NTZkNzU3Y2M0ODoJdXNlcmwrCQHw1hLNGN8K--e703c81d7b582dc88deb7e8a28babbabf575cbfe; auth_token=390D154BA092D33C0F40A848207C85CE2A7F6BB4; kdt=jhemzFF5LZvrK0qJn5Nc86L0OAHJvmHFBWiuUzF3; remember_checked_on=1; twid="u=783372129249193985";
+authenticity_token -==- 21d3cedd49a781f678fb999501722fcda7d24925
+sessionrequest -==- True
+name -==- _Dr Exception_
+deserialized -==- True
+unfollowsent -==- True
+loginer -==- elloworldthis
 -----------------
