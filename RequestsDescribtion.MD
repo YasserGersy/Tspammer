@@ -1,5 +1,7 @@
 ## The Following details Explain Each Request used on Tspammer.py Script
+
 _________________________________________________________________________________________________________
+
 ### This  Request is used to get token and cookies for login 
 
  - URL 		       :twitter.com/
@@ -20,7 +22,8 @@ ________________________________________________________________________________
 	Upgrade-Insecure-Requests: 1
  ~~~~~~~~
 _________________________________________________________________________________________________________
-### This request is used to report a user
+
+### **This request is used to report a user**
 
  - URL            : twitter.com/i/safety/report_story 
 
