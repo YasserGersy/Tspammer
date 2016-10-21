@@ -4,7 +4,7 @@ import requests,sys,os,time,urllib,datetime,random,string
 
 requests.packages.urllib3.disable_warnings()
 prox={'http':'http://127.0.0.1:8080','https':'https://127.0.0.1:8080','ftp':'ftp://127.0.0.1:8080'}
-debug=False
+debug=False 
 
 class STX:
 	session_separator='-----------------'

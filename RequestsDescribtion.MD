@@ -2,7 +2,7 @@
 
 ## Login Process 
  Requires two requests
-
+ 
  1- First Get twttier.com/ : the response will contain cookies and auth token , these values will be used next to login.
 
  2- Second POST twitter.com/session : this rquest is used to request a session from twitter , the request body contains the cookie prevously grabbed from the first request and BOT credentials (id and password)
